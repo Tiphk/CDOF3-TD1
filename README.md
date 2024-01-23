@@ -21,7 +21,7 @@
 - [laculture-lusardi-td3](https://github.com/Enzolus/laculture)
 - [PotonneFlorian-GameOfLife](https://github.com/Flozoui/GameOfLife-FlorianPOTONNE-CDOF3)
 - [JulienSALEH-Projet5](https://github.com/Djuju02/ASCII_Art_Generator-SALEH_Julien-CDOF3.git)
-- [Alex Roussel - Quiz Python] (https://github.com/alexr6/Quiz-game-Alex-Roussel-CCC2.git)
+- [Alex Roussel - Quiz Python](https://github.com/alexr6/Quiz-game-Alex-Roussel-CCC2.git)
 - [ToDoList-Morgane2t-CODF3](https://github.com/Morgane2t/ToDoList-Morgane2t-CODF3.git)
 - [EyssartierGuillaume-TextGame](https://github.com/Guillaumeyss/Adventure-In-Paris-EYSSARTIER-CDOF3)
 - [AlexandreVC-Quizz](https://https://github.com/AlexandreVC/Quizz_AlexandreVaianiCanon_CDOF3)
